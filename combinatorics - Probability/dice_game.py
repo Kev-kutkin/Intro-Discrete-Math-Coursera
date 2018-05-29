@@ -35,7 +35,7 @@ def find_the_best_dice(dices):
             final_val = k
             break
         else:
-            final_val = -1               # return -1 when best dices are found.
+            final_val = -1               # return -1 when best dices are not found.
     return final_val
 
 
