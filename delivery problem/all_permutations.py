@@ -1,13 +1,6 @@
 # Implement the brute force algorithm for the Traveling Salesman Problem. The algorithm should check all the permutations of the vertices
 # and return the minimum weight of a cycle visiting each vertex exactly once.
 
-
-
-
-
-
-
-
 import networkx as nx
 from itertools import permutations
 
